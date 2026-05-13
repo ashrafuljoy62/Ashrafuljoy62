@@ -1,4 +1,4 @@
 # <p align="center">👋 Hey! I'm [ashrafuljoy62]</p>
 <p align="center">
-  <img src="আপনার_ব্যানার_লিঙ্ক" alt="Banner">
+  <img src="https://github.com/ashrafuljoy62/Ashrafuljoy62/blob/WiFu/20260511_191410_0000.png" alt="Banner">
 </p>
