@@ -25,6 +25,65 @@
 
 ---
 
+<h2 align="left">Tech Stack</h2>
+
+<table>
+  <tr>
+    <td align="center" width="98">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+      <br/>HTML
+    </td>
+    <td align="center" width="98">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+      <br/>CSS
+    </td>
+    <td align="center" width="98">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br/>JavaScript
+    </td>
+    <td align="center" width="98">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <br/>TypeScript
+    </td>
+    <td align="center" width="98">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+      <br/>Node.js
+    </td>
+    <td align="center" width="98">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+      <br/>MongoDB
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="98">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      <br/>Java
+    </td>
+    <td align="center" width="98">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="48" height="48" alt="Kotlin" />
+      <br/>Kotlin
+    </td>
+    <td align="center" width="98">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br/>Python
+    </td>
+    <td align="center" width="98">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
+      <br/>Bash
+    </td>
+    <td align="center" width="98">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br/>Git
+    </td>
+    <td align="center" width="98">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48" height="48" alt="Smali" />
+      <br/>Smali
+    </td>
+  </tr>
+</table>
+
+---
+
 <h2 align="left">Featured Projects</h2>
 
 <table>
