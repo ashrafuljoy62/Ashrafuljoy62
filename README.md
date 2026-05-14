@@ -18,7 +18,7 @@
 - Working on **Web Projects** and **Android**.
 - Building and maintaining tools under the **AMJ** / **amjpatch** brand.
 - Work entirely from **Android** — no PC.
-- Check out my website at **[ashrafuljoy62.pro.bd](https://ashrafuljoy62.pro.bd)**
+- Check out my website at **[ashrafuljoy.pro.bd](https://ashrafuljoy.pro.bd)**
 - Want to learn and explore more and more.
 
 ---
