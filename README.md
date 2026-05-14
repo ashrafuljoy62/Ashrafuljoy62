@@ -14,6 +14,8 @@
   <a href="https://t.me/movieallpremium"><img src="https://img.shields.io/badge/TG%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>&nbsp;
 </p>
 
+---
+
 - Independent developer from **Bangladesh**.
 - Working on **Web Projects** and **Android**.
 - Building and maintaining tools under the **AMJ** / **amjpatch** brand.
@@ -22,6 +24,7 @@
 - Want to learn and explore more and more.
 
 ---
+
 <h2 align="left">Featured Projects</h2>
 
 <table>
@@ -41,6 +44,39 @@
 </table>
 
 ---
+
+<h2 align="left">GitHub Stats</h2>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <picture>
+        <source srcset="https://github-readme-stats.vercel.app/api?username=ashrafuljoy62&rank_icon=github&theme=dracula&text_bold=false&hide_border=true&bg_color=00000000&show_icons=true&hide=issues,contribs&count_private=true&include_all_commits=true" media="(prefers-color-scheme: dark)" />
+        <source srcset="https://github-readme-stats.vercel.app/api?username=ashrafuljoy62&rank_icon=github&theme=buefy&show_icons=true&hide_border=true&text_bold=false&hide=issues,contribs&count_private=true&include_all_commits=true&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ashrafuljoy62&rank_icon=github&theme=dracula&show_icons=true&hide_border=true&text_bold=false&hide=issues,contribs&count_private=true&include_all_commits=true&bg_color=00000000" alt="Stats" />
+      </picture>
+    </td>
+    <td align="center" width="50%">
+      <picture>
+        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafuljoy62&layout=compact&theme=dracula&text_bold=false&hide_border=true&bg_color=00000000" media="(prefers-color-scheme: dark)" />
+        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafuljoy62&layout=compact&theme=buefy&text_bold=false&hide_border=true&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafuljoy62&layout=compact&theme=dracula&text_bold=false&hide_border=true&bg_color=00000000" alt="Top Langs" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <picture>
+        <source srcset="https://github-readme-streak-stats-eight.vercel.app?user=ashrafuljoy62&date_format=j%20M%5B%20Y%5D&theme=dracula&border_radius=0&background=FFFFFF00&hide_border=true" media="(prefers-color-scheme: dark)" />
+        <source srcset="https://github-readme-streak-stats-eight.vercel.app?user=ashrafuljoy62&date_format=j%20M%5B%20Y%5D&theme=buefy&border_radius=0&background=FFFFFF00&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ashrafuljoy62&date_format=j%20M%5B%20Y%5D&theme=dracula&border_radius=0&background=FFFFFF00&hide_border=true" alt="Contributions" />
+      </picture>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Profile Views
 <p align="center">
   <img width="400px" src="https://count.getloli.com/get/@ashrafuljoy62?theme=rule34"></img>
