@@ -67,11 +67,13 @@
   <tr>
     <td colspan="2" align="center">
       <picture>
-        <source srcset="https://github-readme-streak-stats-eight.vercel.app?user=ashrafuljoy62&date_format=j%20M%5B%20Y%5D&theme=dracula&border_radius=0&background=FFFFFF00&hide_border=true" media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-readme-streak-stats-eight.vercel.app?user=ashrafuljoy62&date_format=j%20M%5B%20Y%5D&theme=buefy&border_radius=0&background=FFFFFF00&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ashrafuljoy62&date_format=j%20M%5B%20Y%5D&theme=dracula&border_radius=0&background=FFFFFF00&hide_border=true" alt="Contributions" />
-      </picture>
-    </td>
+        <td colspan="2" align="center">
+    <picture>
+        <source srcset="https://github-readme-streak-stats-eight.vercel.app/?user=ashrafuljoy62&start_date=2026-05-10&theme=dracula&date_format=j%20M%20Y" media="(prefers-color-scheme: dark)">
+        <source srcset="https://github-readme-streak-stats-eight.vercel.app/?user=ashrafuljoy62&start_date=2026-05-10&theme=buety&date_format=j%20M%20Y" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
+        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ashrafuljoy62&start_date=2026-05-10&theme=dracula&date_format=j%20M%20Y" alt="Contributions" />
+    </picture>
+</td>
   </tr>
 </table>
 
