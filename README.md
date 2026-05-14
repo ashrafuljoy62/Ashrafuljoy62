@@ -13,7 +13,6 @@
   <a href="https://t.me/premium_master_62><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>&nbsp;
   <a href="https://t.me/movieallpremium"><img src="https://img.shields.io/badge/TG%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>&nbsp;
 </p>
----
 
 - Independent developer from **Bangladesh**.
 - Working on **Web Projects** and **Android**.
