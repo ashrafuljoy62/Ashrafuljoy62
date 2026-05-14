@@ -13,6 +13,14 @@
   <a href="https://t.me/premium_master_62><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>&nbsp;
   <a href="https://t.me/movieallpremium"><img src="https://img.shields.io/badge/TG%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>&nbsp;
 </p>
+ <p align="center">
+•Independent developer from Bangladesh.
+•Working on Web Projects and Android.
+•Building and maintaining tools under the AMJ / amjpatch brand.
+•Work entirely from Android — no PC.
+•Check out my website at ashrafuljoy.pro.bd
+•Want to learn and explore more and more.
+ </p>
 ## Profile Views
 <p align="center">
   <img width="400px" src="https://count.getloli.com/get/@ashrafuljoy62?theme=rule34"></img>
