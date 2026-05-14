@@ -1,4 +1,3 @@
-# <p align="center">👋 Hey! I'm [ashrafuljoy62]</p>
 <p align="center">
-  <img src="https://github.com/ashrafuljoy62/Ashrafuljoy62/blob/WiFu/20260511_191410_0000.png" alt="Banner">
+  <img src="https://github.com/ashrafuljoy62/Ashrafuljoy62/blob/WiFu/👋 Hey! I'm Ashraful Joy_20260514_095026_0000.png" alt="Banner">
 </p>
