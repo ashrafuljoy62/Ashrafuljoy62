@@ -14,7 +14,7 @@
   <a href="https://t.me/movieallpremium"><img src="https://img.shields.io/badge/TG%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>&nbsp;
 </p>
  <p align="center">
-•Independent developer from Bangladesh.
+ •Independent developer from Bangladesh.
 •Working on Web Projects and Android.
 •Building and maintaining tools under the AMJ / amjpatch brand.
 •Work entirely from Android — no PC.
